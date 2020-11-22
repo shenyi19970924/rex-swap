@@ -1,6 +1,6 @@
 {
   "name": "Rex",
-  "timestamp": "2020-09-01T01:40:34.305Z",
+  "timestamp": "2020-11-23T01:44:57.000+00:00",
   "version": {
     "major": 1,
     "minor": 0,
@@ -19,7 +19,7 @@
       "name": "Rex",
       "symbol": "REX",
       "decimals": 18,
-      "logoURI": "https://github.com/shenyi19970924/rex-swap/blob/main/rexl.svg"
+      "logoURI": "https://raw.githubusercontent.com/shenyi19970924/rex-swap/main/rexlogo.png"
       }
     ]
 }
