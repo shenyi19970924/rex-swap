@@ -1,6 +1,6 @@
 {
   "name": "Rex",
-  "logoURI": "https://github.com/shenyi19970924/rex-swap/blob/main/rexl.svg",
+  "logoURI": "https://raw.githubusercontent.com/shenyi19970924/rex-swap/main/rexlogo.png",
   "keywords": [
       "compound",
       "DEFI",
@@ -13,7 +13,7 @@
       "name": "Rex",
       "symbol": "REX",
       "decimals": 18,
-      "logoURI": "https://github.com/shenyi19970924/rex-swap/blob/main/rexl.svg"
+      "logoURI": "https://raw.githubusercontent.com/shenyi19970924/rex-swap/main/rexlogo.png"
       }
     ],
     "version": {
