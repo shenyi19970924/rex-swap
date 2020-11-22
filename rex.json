@@ -5,7 +5,7 @@
       "compound",
       "DEFI",
     ],
-    "timestamp": "2020-09-01T01:40:34.305Z",
+    "timestamp": "2020-11-23T01:44:57.000+00:00",
     "tokens": [
       {
       "chainId": 1,
@@ -17,7 +17,7 @@
       }
     ],
     "version": {
-      "major": 0,
+      "major": 1,
       "minor": 0,
       "patch": 0
     }
